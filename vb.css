@@ -1,0 +1,124 @@
+p {
+  text-align: center;
+  border: 1px solid red;
+  box-sizing: border-box;
+  width: fit-content;
+  align-items: center;
+  background:yellow;
+  font: 90%;
+  font-style: italic;
+}
+.down{
+text-decoration: none;
+}
+p{
+margin-left: 70px;
+}
+.p {
+    font-family: cursive;
+    color: black;
+    background-color: greenyellow;
+    text-align: center;
+    cursor: pointer;
+    font-size: 50px;    border-radius: 20px;
+    border: 5px;
+width: fit-content;
+    border-color: red;
+    border-style: solid;
+    letter-spacing: 4px;
+border-width: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 450px;
+}
+
+html {
+background-image: url(photo/david-rodrigo-kZ1zThg6G40-unsplash.png);
+  background-repeat: round;
+  background-attachment: fixed;
+  background-size: cover;
+  font-size: large;
+  text-decoration: none;
+}
+
+.u{
+margin: 150px 0 10px 10px;
+
+font-size: 17px;
+border: 4px solid red;
+width: fit-content;
+border-width: thin;
+
+}
+h3{
+  font-style: normal;
+  /* cursor: pointer;
+   transition: .5s; */
+  
+  padding: 5px; 
+  background-color: greenyellow;
+  border-radius: 3px;
+  
+font-size: 17px;
+border: 4px solid red;
+width: fit-content;
+border-width: thin;
+}
+.navbar{ cursor: context-menu;
+  text-decoration: none;
+
+}
+
+.down:hover{
+  background-color: aqua;
+text-decoration: none;
+  color:black;
+  transition: .5s;
+  padding-right: 5px;
+  padding-left: 5px;
+  
+
+}
+
+.downloadclick{
+  text-decoration: none;
+  border: 3px solid red;
+  border-radius: 5px;
+width: fit-content;
+font-style: normal;
+margin-bottom: 50px;
+margin-top: 10px;
+background-color: aquamarine;
+}
+
+
+.letter:hover{
+  color:#ebebeb;
+  transition: .8s;
+  text-decoration: none;
+
+}
+.search{
+text-align: right;
+
+
+
+}
+.lab{
+background-color: black;
+  color: aqua;
+  border: 3px silver solid;
+  width: 40px;
+}
+.test{
+  color: antiquewhite;
+text-decoration:underline;
+text-transform: lowercase;
+text-decoration-line: none;text-decoration: none;
+text-indent: 100px;
+text-overflow:ellipsis;
+
+
+
+}
